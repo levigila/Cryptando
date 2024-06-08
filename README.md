@@ -40,4 +40,4 @@ Cryptando resolve esses problemas oferecendo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/cryptando.git
+   git clone https://github.com/levigila/Cryptando.git
