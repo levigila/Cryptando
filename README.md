@@ -1,5 +1,8 @@
 # Cryptando
 
+1. APK excutavel do Cryptando:
+   ```bash
+-------------   
 ## Visão Geral
 
 Cryptando é um aplicativo Android inovador projetado para simplificar a gestão de criptomoedas. Nosso objetivo é fornecer uma plataforma segura, intuitiva e eficiente para monitorar, transacionar e armazenar diversas criptomoedas.
