@@ -2,6 +2,7 @@
 
 1. APK excutavel do Cryptando:
    ```bash
+   https://github.com/levigila/Cryptando/commit/4c297aec630355be22de5ea90a601c612f4d669d
 -------------   
 
 Desenvolvedores:
