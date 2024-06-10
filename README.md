@@ -1,7 +1,7 @@
 # Cryptando
 
 1. APK excutavel do Cryptando:
-   ```(https://1drv.ms/u/c/8ae5d34227988db3/Ea8iX1X2bHpJm43DEQ38-noBkMT1hk-RNwnE3teAr7xdVw?e=rZLxnG)
+   https://1drv.ms/u/c/8ae5d34227988db3/Ea8iX1X2bHpJm43DEQ38-noBkMT1hk-RNwnE3teAr7xdVw?e=rZLxnG
 -------------
 
 Desenvolvedores:
